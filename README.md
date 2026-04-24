@@ -28,9 +28,7 @@
 
 ---
 
-### 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/shivansh_shri)
-
+### 🧠 LeetCode Stats![LeetCode Stats](https://leetcard.jacoblin.cool/shivanshshri?theme=light&font=Poppins&ext=activity)
 ---
 
 ### 🤝 Connect With Me
