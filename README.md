@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 - 🌱 I’m currently learning **React, Node.js**
-- 💬 Ask me about **Web Dev & Java**
+- 💬 Ask me about **Web Dev & C++**
 - 📫 Reach me at: shiva.shri0055@gmail.com
 - ⚡ Fun fact: I love coding challenges
 
