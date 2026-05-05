@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shivanshshri&theme=rose&no-frame=true&no-bg=false&margin-w=4)
 
+# 🎯 Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/shivansh_shri)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
